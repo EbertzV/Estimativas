@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Receitas>
+  <ReceitaCollection>
+    <Receita Nome="Holandesa" Rendimento="10">
+      <IngredientesReceita>
+        <Ingrediente Classe="ChocolateAoLeite" Quantidade="100"/>
+        <Ingrediente Classe="Farinha" Quantidade="200"/>
+      </IngredientesReceita>
+    </Receita>
+  </ReceitaCollection>
+</Receitas>

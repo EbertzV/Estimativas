@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Lote>
+  <LoteCollection>
+    <Lote Receita="Holandesa" Data="2020-04-29T00:00:00" Quantidade="3">
+      <IngredientesLoteCollection>
+        <LoteIngrediente LoteClasseIngrediente="ChocolateAoLeite" Id="0"/>
+        <LoteIngrediente LoteClasseIngrediente="Farinha" Id="4"/>
+      </IngredientesLoteCollection>
+    </Lote>
+  </LoteCollection>
+</Lote>

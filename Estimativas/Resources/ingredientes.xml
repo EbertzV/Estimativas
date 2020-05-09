@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Ingredientes>
+  <IngredientesCollection>
+    <Ingrediente Id="0" Marca="Garoto" Nome="Ao leite" Preco="9.90" Quantidade="120" Classe="ChocolateAoLeite"/>
+    <Ingrediente Id="1" Marca="Lacta" Nome="Ao leite" Preco="9.90" Quantidade="120" Classe="ChocolateAoLeite"/>
+    <Ingrediente Id="2" Marca="Garoto" Nome="Branco" Preco="9.90" Quantidade="120" Classe="ChocolateBranco"/>
+    <Ingrediente Id="3" Marca="Lacta" Nome="Branco" Preco="9.90" Quantidade="120" Classe="ChocolateBranco"/>
+    <Ingrediente Id="4" Marca="União" Nome="Farinha branca" Preco="5.00" Quantidade="1000" Classe="Farinha"/>
+  </IngredientesCollection>
+</Ingredientes>
