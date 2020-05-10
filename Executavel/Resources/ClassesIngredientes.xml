@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Classes>
+  <ClassesIngredientes>
+    <Classe Nome="Farinha" Unidade="grama"></Classe>
+    <Classe Nome="ChocolateBranco" Unidade="grama"></Classe>
+    <Classe Nome="ChocolateAoLeite" Unidade="grama"></Classe>
+  </ClassesIngredientes>
+</Classes>
